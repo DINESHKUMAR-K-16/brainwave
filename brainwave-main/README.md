@@ -50,7 +50,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/julien-muke/brainwave.git
+git clone https://github.com/DINESHKUMAR-K-16/brainwave.git
 cd brainwave
 ```
 
